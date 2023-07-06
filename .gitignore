@@ -171,3 +171,6 @@ image-embeddings/my_emb.pkl
 __azurite_db_blob_extent__.json
 __azurite_db_blob__.json
 image-embeddings/img_emb.pkl
+azure_computer_vision_workshop/fashion
+azure_computer_vision_workshop/fashion_samples.zip
+azure_computer_vision_workshop/azure.env

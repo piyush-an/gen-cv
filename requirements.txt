@@ -17,3 +17,4 @@ tenacity
 tqdm
 faiss-cpu
 bokeh
+plotly
